@@ -1,10 +1,12 @@
-<h2 align="center">¡Hola 👋! Mi nombre es Ignacio Mella, soy de Chile 🥰, estoy estudiando Ingeniería en Informática en el Duoc UC, me gustan los videojuegos, soy aficionado a aprender cada vez más y lograr mis objetivos y soy un apasionado por programar y poder desarrollarme con nuevas tecnologías.</h2>
+<h3 align="center">🚀 ¡Hola!, Soy Manuel Bustamante, un estudiante de Ingeniería en Informática en Duoc UC con un fuerte dominio en Python, JavaScript, C, C#, y C++. Mi experiencia abarca desde programación web en PHP y JavaScript hasta el uso de frameworks modernos como Angular, Flutter, Ruby on rails y React. También tengo experiencia en gestión de bases de datos con Oracle y Amazon AWS, también poseo un sólido conocimiento en metodologías ágiles como Scrum. Siempre estoy en busca de nuevos desafíos para aplicar mis habilidades y seguir aprendiendo. 😊.</h3>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManuelBustamante-py&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=neon&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ManuelBustamante-py&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuelBustamante-py&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=neon&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
