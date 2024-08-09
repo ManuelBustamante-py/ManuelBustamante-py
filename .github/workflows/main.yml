@@ -1,35 +1,41 @@
-name: Generate snake animation
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Ejecutar cada 12 horas
+    # Ejecutar cada 6 horas
+    - cron: "0 */6 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - master
-      - main
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake
+        uses: Platane/snk@master
+        id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          github_user_name: ManuelBustamante-py
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Show build status
+        run: git status
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          target_branch: output
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main  # Cambiado a 'main' si es la rama principal
+          force: true
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output  # Rama de destino donde se generarán las páginas
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
