@@ -44,8 +44,9 @@
 
 ### 
 
-![Snake animation](https://github.com/ManuelBustamante-py/ManuelBustamante-py/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/ManuelBustamante-py/ManuelBustamante-py/output/snake.svg" alt="Snake animation" />
 
 ###
 
