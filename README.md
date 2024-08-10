@@ -49,11 +49,11 @@
   <tr>
     <td>
       <a href="https://open.spotify.com/user/aknx686ji8wflqfeh30q3ent0">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=aknx686ji8wflqfeh30q3ent0&count=10" width="350px" height="auto" alt="Spotify recently played" />
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=aknx686ji8wflqfeh30q3ent0&count=10" alt="Spotify recently played" />
       </a>
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/40/14/02/4014020e00ed21c874cc6eb6949927bd.gif" alt="Animated GIF" width="250px" height="auto" />
+      <img src="https://i.pinimg.com/originals/40/14/02/4014020e00ed21c874cc6eb6949927bd.gif" alt="Animated GIF" width="200px" height="400px" />
     </td>
   </tr>
 </table>
