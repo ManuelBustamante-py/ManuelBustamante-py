@@ -53,7 +53,7 @@
       </a>
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/40/14/02/4014020e00ed21c874cc6eb6949927bd.gif" alt="Animated GIF" width="450px" height="auto" />
+      <img src="https://i.pinimg.com/originals/40/14/02/4014020e00ed21c874cc6eb6949927bd.gif" alt="Animated GIF" width="350px" height="auto" />
     </td>
   </tr>
 </table>
