@@ -43,15 +43,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hobbie+?+🤔;La+Música!👆🤓;" />
 </h2>
 
-<table align="center">
+<table>
   <tr>
     <td>
       <a href="https://open.spotify.com/user/aknx686ji8wflqfeh30q3ent0">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=aknx686ji8wflqfeh30q3ent0&count=7" alt="Spotify recently played" width="300" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://i.pinimg.com/originals/40/14/02/4014020e00ed21c874cc6eb6949927bd.gif">
         <img src="https://i.pinimg.com/originals/40/14/02/4014020e00ed21c874cc6eb6949927bd.gif" alt="Animated GIF" width="300" />
@@ -59,6 +57,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
