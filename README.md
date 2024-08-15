@@ -26,13 +26,12 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <hr/>
 
-  <h2 align="Center">🌠 Mis Contribuciones 🌠</h2>
-  <br>
+<h2 align="Center">🌠 Mis Contribuciones 🌠</h2>
+<br>
 <br clear="both">
 
 <img align="Center" src="https://raw.githubusercontent.com/ManuelBustamante-py/ManuelBustamante-py/output/snake.svg" alt="Snake animation" />
@@ -57,5 +56,3 @@
     </td>
   </tr>
 </table>
-
-
