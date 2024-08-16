@@ -9,11 +9,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelBustamante-py  />
-  <img src="https://streak-stats.demolab.com?user=ManuelBustamante-py&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=ManuelBustamante-py&theme=neon&cache-buster=12345" height="170" alt="stats graph" />
+
+  <img src="https://streak-stats.demolab.com?user=ManuelBustamante-py&locale=en&mode=daily&cache-buster=12345&theme=neon&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuelBustamante-py&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=neon&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuelBustamante-py&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=neon&cache-buster=12345&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
 ###
