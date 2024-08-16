@@ -9,7 +9,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelBustamante-pyalt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelBustamante-py  />
   <img src="https://streak-stats.demolab.com?user=ManuelBustamante-py&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
 </div>
 <div align="center">
